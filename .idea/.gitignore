@@ -1,3 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+idea/.gitignore
+idea/misc.xml
+idea/modules.xml
+idea/tensorflow.iml
+idea/vcs.xml
+idea/workspace.xml
+idea/inspectionProfiles/profile_settings.xml
+
